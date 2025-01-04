@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+*/migrations/*
+!*/migrations/__init__.py
+db.sqlite3
+/static/
+/media/
+
+# Logs
+*.log
+
+# Secret key
+secret_key.py
