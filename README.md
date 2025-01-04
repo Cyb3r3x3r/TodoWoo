@@ -1,11 +1,11 @@
 # TodoWoo
 A todo website made in django
 ## Features
-> Create a task
-> Delete a task
-> Complete a task
-> Task can be marked important
-> Authentication features
+- > Create a task
+- > Delete a task
+- > Complete a task
+- > Task can be marked important
+- > Authentication features
 
 ## Installations
 If doing any change
